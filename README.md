@@ -1,6 +1,7 @@
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding"  align="right" width="400"> 
 <h1 align="center">Hi 👋, I'm Nisma Elagder</h1>
 <h3 align="center">A passionate front-end web developer from Egypt</h3>
-<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding"  align="right" width="1000"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nismaelagder&label=Profile%20views&color=0e75b6&style=flat" alt="nismaelagder" /> </p>
 
 - 🔭 I’m currently working on **REACT Project**
