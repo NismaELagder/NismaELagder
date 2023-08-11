@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **REACT Project**
 
-- 🌱 I’m currently learning **React JS, Angular, Vue JS, Tailwind CSS, Sass CSS,**
-
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
 - 📫 How to reach me **nisma.ahmed.elagder@gmail.com**
