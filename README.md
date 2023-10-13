@@ -1,6 +1,9 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding"  align="right" width="400"> 
 <h1 align="center">Hi 👋, I'm Nisma Elagder</h1>
-<h3 align="center">A passionate front-end web developer from Egypt</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+web+developer.;I+enjoy+coding,+cycling,+and+drawing.;&center=true&width=500&height=50"></a>
+</p>
+<!-- <h3 align="center">A passionate front-end web developer from Egypt</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nismaelagder&label=Profile%20views&color=0e75b6&style=flat" alt="nismaelagder" /> </p>
 
