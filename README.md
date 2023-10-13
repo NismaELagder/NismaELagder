@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nismaelagder&label=Profile%20views&color=0e75b6&style=flat" alt="nismaelagder" /> </p>
 
-- 🔭 I’m currently working on **REACT Project**
+- 🔭 I’m currently working on **REACT & Vue JS Projects**
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
