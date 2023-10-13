@@ -5,7 +5,7 @@
 </p>
 <!-- <h3 align="center">A passionate front-end web developer from Egypt</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nismaelagder&label=Profile%20views&color=0e75b6&style=flat" alt="nismaelagder" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nismaelagder&label=Profile%20views&color=0e75b6&style=flat" alt="nismaelagder" /> </p> -->
 
 - 🔭 I’m currently working on **REACT & Vue JS Projects**
 
