@@ -19,7 +19,7 @@
 |  Travely | in progress | [Code](https://github.com/NismaELagder/Travely) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 | Lux-Realty  | in progress | [Front-end](https://github.com/NismaELagder/Lux-Realty) & [Back-end](https://github.com/NismaELagder/Lux-Realty-Database) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 | The E-Comm Hub  | in progress | [Code](https://github.com/NismaELagder/The-E-comm-Hub) | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-|  World Bites | in progress | updating | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+|  World Bites | in progress |  [Code](https://github.com/NismaELagder/World-Bites) | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
 ## Top Technologies & Skills:
