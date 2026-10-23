@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
-            src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+web+developer.;I+enjoy+coding,+cycling,+and+drawing.;&center=true&width=500&height=50">
+            src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+web+developer.;&center=true&width=500&height=50">
     </a>
 </p>
 
